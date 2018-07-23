@@ -18,7 +18,7 @@ namespace ActonTranslation
     class Program
     {
         /// <summary>
-        /// 
+        /// ActOn translation exercise.
         /// </summary>
         /// <param name="args">file paths to translate</param>
         static void Main(string[] args)
